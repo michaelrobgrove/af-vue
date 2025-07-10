@@ -1,5 +1,5 @@
 {
-  "defaultServerURLs": [38.143.59.115:8096],
+  "defaultServerURLs": [],
   "allowServerSelection": true,
   "routerMode": "hash"
 }
