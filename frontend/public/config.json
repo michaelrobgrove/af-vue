@@ -1,5 +1,5 @@
 {
   "defaultServerURLs": ['watch.alfredflix.stream'],
-  "allowServerSelection": true,
+  "allowServerSelection": false,
   "routerMode": "hash"
 }
